@@ -5,4 +5,5 @@ Welcome! This is my data science portfolio containing projects and challenge sub
 ## Table of Contents
 
   - [Understanding TTC Delays](https://github.com/dbnguyen28/DataScience/blob/master/TTC%20Project/Subway_Delay_Analysis.ipynb): Exploratory data analysis, and predictive modeling of why happen delays occur in the downtown core
+  - [Predicting Blood Donations](link): Testing out several different modeling algorithms to see which one performs the best with the given dataset
       
