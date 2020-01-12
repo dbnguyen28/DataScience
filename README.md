@@ -4,7 +4,7 @@ Welcome! This is my data science portfolio containing projects and challenge sub
 
 ## Table of Contents
 
-  - [Understanding TTC Delays](https://github.com/dbnguyen28/DataScience/blob/master/TTC%20Project/Subway_Delay_Analysis.ipynb): Exploratory data analysis, and predictive modeling of why happen delays occur in the downtown core
+  - [Understanding TTC Delays](https://github.com/dbnguyen28/DataScience/blob/master/TTC%20Project/Subway_Delay_Analysis.ipynb): Exploratory data analysis, and predictive modeling of why happen delays occur in the downtown core using time series analysis techniques
   - [Predicting Blood Donations](link): Testing out several different modeling algorithms to see which one performs the best with the given dataset
   - [Understanding the Housing Market](link): Analyzing the all the features to understand the key driving factors behind the crazy prices
-      
+- [Predicting the Likelihood of Strikes in Baseball](https://github.com/dbnguyen28/DataScience/tree/master/Blue%20Jays%20Project): Understanding features that define a successful pitcher using classification models
