@@ -1,1 +1,1 @@
-
+Legal documents and contracts are usually very long and it is often tedious to read through the whole thing to find the key details. The purpose of this project is to simplify that process and save lawyers hours of time by extracting the key details. This project was based off the paper by Ilias Chalkidis and Ion Androutsopoulos http://nlp.cs.aueb.gr/pubs/jurix2017.pdf
