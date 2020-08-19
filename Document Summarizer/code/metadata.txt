@@ -1,0 +1,6 @@
+{
+  "version":"1.0",
+  "description": "this is a first iteration deep learning text classification"
+  "input": "The expected input to the predicition is text"
+  
+}
